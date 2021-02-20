@@ -61,7 +61,7 @@ WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değild
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
+and use it ers to 
 install their own plugins to the original software and use them as they wish.
 Usage is entirely the user's responsibility, Asena Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
@@ -70,11 +70,11 @@ is not responsible for the usage purpose and method of the users.
 ```
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena Duplicated</h1>
+  <img srdth="200" height="200">
+
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
+Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
     <br>
         Reserved |
         Reserved |
