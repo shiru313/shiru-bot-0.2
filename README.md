@@ -44,11 +44,11 @@
   </a>
 </p>
 
-```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
+
+ır, yazının devamında birbiri yerine kullanılabilir.
 
 WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
+kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
 Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
 kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
 orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
@@ -60,13 +60,13 @@ WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değild
 
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
+project, anyone can copy the software, add and remove,
 and use it ers to 
 install their own plugins to the original software and use them as they wish.
-Usage is entirely the user's responsibility, Asena Userbot is an 
+bot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
+
 ```
 
 <div align="center">
